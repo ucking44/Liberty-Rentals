@@ -29,8 +29,8 @@ Built with Laravel Passport for secure API authentication.
 
 1. **Clone the repo:**
 ```bash
-git clone https://github.com/ucking44/liberty-rentals.git
-cd liberty-rentals
+git clone https://github.com/ucking44/Liberty-Rentals.git
+cd Liberty-Rentals
 composer install
 cp .env.example .env
 php artisan key:generate
